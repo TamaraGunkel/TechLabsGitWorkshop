@@ -15,6 +15,6 @@ Zeige uns, wie kreativ du bist. Erstelle ein ASCII Kunstwerk!
 		@
 		@
 		@
-		@
+		@  h
 
 **** Dein Kunstwerk ****
