@@ -17,11 +17,8 @@ Zeige uns, wie kreativ du bist. Erstelle ein ASCII Kunstwerk!
 
 **** Dein Kunstwerk ****
 
-#####		#####	
-#####		#####
-
-	####
-	####
-
-#####################
-#####################
+      .            
+\_____)\_____
+/--v____ __`<         
+        )/           
+        '
